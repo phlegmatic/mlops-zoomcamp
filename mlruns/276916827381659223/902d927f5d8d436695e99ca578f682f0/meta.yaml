@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/276916827381659223/902d927f5d8d436695e99ca578f682f0/artifacts
+end_time: 1764051805379
+entry_point_name: ''
+experiment_id: '276916827381659223'
+lifecycle_stage: active
+run_id: 902d927f5d8d436695e99ca578f682f0
+run_name: crawling-shrike-14
+run_uuid: 902d927f5d8d436695e99ca578f682f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764051801066
+status: 3
+tags: []
+user_id: codespace

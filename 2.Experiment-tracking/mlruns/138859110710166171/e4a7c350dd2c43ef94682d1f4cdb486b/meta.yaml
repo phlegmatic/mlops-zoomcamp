@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/138859110710166171/e4a7c350dd2c43ef94682d1f4cdb486b/artifacts
+end_time: 1764052608462
+entry_point_name: ''
+experiment_id: '138859110710166171'
+lifecycle_stage: active
+run_id: e4a7c350dd2c43ef94682d1f4cdb486b
+run_name: powerful-cat-570
+run_uuid: e4a7c350dd2c43ef94682d1f4cdb486b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764052604731
+status: 3
+tags: []
+user_id: codespace

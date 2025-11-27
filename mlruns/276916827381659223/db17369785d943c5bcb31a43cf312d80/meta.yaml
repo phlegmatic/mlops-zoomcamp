@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/276916827381659223/db17369785d943c5bcb31a43cf312d80/artifacts
+end_time: 1764051815167
+entry_point_name: ''
+experiment_id: '276916827381659223'
+lifecycle_stage: active
+run_id: db17369785d943c5bcb31a43cf312d80
+run_name: gentle-mouse-131
+run_uuid: db17369785d943c5bcb31a43cf312d80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764051814364
+status: 3
+tags: []
+user_id: codespace

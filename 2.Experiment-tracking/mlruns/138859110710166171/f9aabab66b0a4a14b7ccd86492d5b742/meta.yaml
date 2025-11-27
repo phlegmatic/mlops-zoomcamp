@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/138859110710166171/f9aabab66b0a4a14b7ccd86492d5b742/artifacts
+end_time: 1764052577733
+entry_point_name: ''
+experiment_id: '138859110710166171'
+lifecycle_stage: active
+run_id: f9aabab66b0a4a14b7ccd86492d5b742
+run_name: learned-duck-918
+run_uuid: f9aabab66b0a4a14b7ccd86492d5b742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764052577417
+status: 3
+tags: []
+user_id: codespace

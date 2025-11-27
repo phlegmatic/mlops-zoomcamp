@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/138859110710166171/97d41d4d995b409080ad8780836ae179/artifacts
+end_time: 1764052582666
+entry_point_name: ''
+experiment_id: '138859110710166171'
+lifecycle_stage: active
+run_id: 97d41d4d995b409080ad8780836ae179
+run_name: colorful-roo-164
+run_uuid: 97d41d4d995b409080ad8780836ae179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764052578226
+status: 3
+tags: []
+user_id: codespace

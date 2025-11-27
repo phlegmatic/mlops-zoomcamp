@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/138859110710166171/cb65f28e396345df987e44bafed55899/artifacts
+end_time: 1764052577409
+entry_point_name: ''
+experiment_id: '138859110710166171'
+lifecycle_stage: active
+run_id: cb65f28e396345df987e44bafed55899
+run_name: redolent-wren-907
+run_uuid: cb65f28e396345df987e44bafed55899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764052570918
+status: 3
+tags: []
+user_id: codespace

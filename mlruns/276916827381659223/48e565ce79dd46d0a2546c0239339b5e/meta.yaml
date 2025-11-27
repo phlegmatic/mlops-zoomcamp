@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/276916827381659223/48e565ce79dd46d0a2546c0239339b5e/artifacts
+end_time: 1764051811995
+entry_point_name: ''
+experiment_id: '276916827381659223'
+lifecycle_stage: active
+run_id: 48e565ce79dd46d0a2546c0239339b5e
+run_name: upset-bat-25
+run_uuid: 48e565ce79dd46d0a2546c0239339b5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764051809113
+status: 3
+tags: []
+user_id: codespace

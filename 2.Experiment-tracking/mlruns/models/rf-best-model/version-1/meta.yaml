@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1764053304100
+current_stage: None
+description: ''
+last_updated_timestamp: 1764053304100
+name: rf-best-model
+run_id: 1e8597c9e78d441fb9cbc93c6ea6037c
+run_link: ''
+source: mlflow-artifacts:/910849532520155644/1e8597c9e78d441fb9cbc93c6ea6037c/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

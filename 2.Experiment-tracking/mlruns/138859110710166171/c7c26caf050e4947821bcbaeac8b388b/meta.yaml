@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/138859110710166171/c7c26caf050e4947821bcbaeac8b388b/artifacts
+end_time: 1764052599540
+entry_point_name: ''
+experiment_id: '138859110710166171'
+lifecycle_stage: active
+run_id: c7c26caf050e4947821bcbaeac8b388b
+run_name: silent-calf-476
+run_uuid: c7c26caf050e4947821bcbaeac8b388b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764052592530
+status: 3
+tags: []
+user_id: codespace

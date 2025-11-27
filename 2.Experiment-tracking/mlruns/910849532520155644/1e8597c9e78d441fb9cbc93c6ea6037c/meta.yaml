@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/910849532520155644/1e8597c9e78d441fb9cbc93c6ea6037c/artifacts
+end_time: 1764053273413
+entry_point_name: ''
+experiment_id: '910849532520155644'
+lifecycle_stage: active
+run_id: 1e8597c9e78d441fb9cbc93c6ea6037c
+run_name: rumbling-ant-141
+run_uuid: 1e8597c9e78d441fb9cbc93c6ea6037c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764053266422
+status: 3
+tags: []
+user_id: codespace

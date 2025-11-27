@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/138859110710166171/525e14e393e747549826316d9896fcaa/artifacts
+end_time: 1764052578219
+entry_point_name: ''
+experiment_id: '138859110710166171'
+lifecycle_stage: active
+run_id: 525e14e393e747549826316d9896fcaa
+run_name: handsome-fox-723
+run_uuid: 525e14e393e747549826316d9896fcaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764052577740
+status: 3
+tags: []
+user_id: codespace

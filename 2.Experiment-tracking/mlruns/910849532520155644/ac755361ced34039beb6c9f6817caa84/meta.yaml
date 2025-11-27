@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/910849532520155644/ac755361ced34039beb6c9f6817caa84/artifacts
+end_time: 1764053295326
+entry_point_name: ''
+experiment_id: '910849532520155644'
+lifecycle_stage: active
+run_id: ac755361ced34039beb6c9f6817caa84
+run_name: bittersweet-gull-795
+run_uuid: ac755361ced34039beb6c9f6817caa84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764053289647
+status: 3
+tags: []
+user_id: codespace

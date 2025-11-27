@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/276916827381659223/03143a4645664f3db34f91a6956173ce/artifacts
+end_time: 1764051783413
+entry_point_name: ''
+experiment_id: '276916827381659223'
+lifecycle_stage: active
+run_id: 03143a4645664f3db34f91a6956173ce
+run_name: amazing-sloth-33
+run_uuid: 03143a4645664f3db34f91a6956173ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764051779000
+status: 3
+tags: []
+user_id: codespace
